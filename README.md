@@ -85,4 +85,4 @@ background_remover_bot/
 
 ## Лицензия
 
-Автор проекта не указал лицензию — уточните у владельца репозитория перед использованием в коммерческих целях.
+Проект распространяется под лицензией [AGPL-3.0](https://github.com/buligar/background_remover_bot/blob/main/LICENSE).
